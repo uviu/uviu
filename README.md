@@ -26,4 +26,4 @@ Module descriptions at https://modulux.htwk-leipzig.de/app-modulux/frontend/modu
 
 Repositories based on online courses, tutorials, and technical books I studied independently.
 
--[**opencv-101**](https://github.com/uviu/opencv-101)  - python + opencv - guide":"ytub.ee/91Vbm
+-[**opencv-101**](https://github.com/uviu/opencv-101)  - python + opencv - guide : ytub.ee/91Vbm
