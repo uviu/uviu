@@ -2,8 +2,8 @@
 
 ## University Projects
 
-Code (mostly snippets) which was produced during my studies at HTWK Leipzig.
-module descriptions -> https://modulux.htwk-leipzig.de/app-modulux/frontend/module/
+Code (mostly snippets) which was produced during my studies at HTWK Leipzig.\n
+Module descriptions at https://modulux.htwk-leipzig.de/app-modulux/frontend/module/
 
 - [**ads1-c300**](https://github.com/uviu/ads1-c300))  - htwk leipzig algorithmen und datenstrukturen         (C300) 
 - [**aop-c680**](https://github.com/uviu/aop-c680)     - htwk leipzig anwendungsorientierte programmierung    (C680) 
