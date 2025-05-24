@@ -28,3 +28,9 @@ Repositories based on online courses, tutorials, and technical books I studied i
 
 - [**opencv-101**](https://github.com/uviu/opencv-101)    - python + opencv - guide : https://ytub.ee/91Vbm
 - [**ansible-101**](https://github.com/uviu/ansible-101)  - ansible + virtualbox - guide : https://ytub.ee/nnpOZ
+
+## Dotfiles
+
+Configuration files and scripts that customize my development environment, enhancing productivity and workflow efficiency across different systems.
+
+- [**nvim-setup**](https://github.com/uviu/nvim-setup)    - python + opencv - guide : https://ytub.ee/91Vbm
