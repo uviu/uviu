@@ -21,3 +21,9 @@ Module descriptions at https://modulux.htwk-leipzig.de/app-modulux/frontend/modu
 - [**snp-c405**](https://github.com/uviu/snp-c405)     - htwk leipzig systemnahe programmierung               (C405)
 
 ---
+
+## Independent Studies
+
+Repositories based on online courses, tutorials, and technical books I studied independently.
+
+-[**opencv-101**](https://github.com/uviu/opencv-101)  - python + opencv - guide":"ytub.ee/91Vbm
