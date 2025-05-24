@@ -26,4 +26,5 @@ Module descriptions at https://modulux.htwk-leipzig.de/app-modulux/frontend/modu
 
 Repositories based on online courses, tutorials, and technical books I studied independently.
 
--[**opencv-101**](https://github.com/uviu/opencv-101)  - python + opencv - guide : https//www.ytub.ee/91Vbm
+- [**opencv-101**](https://github.com/uviu/opencv-101)    - python + opencv - guide : www.ytub.ee/91Vbm
+- [**ansible-101**](https://github.com/uviu/ansible-101)  - ansible + virtualbox - guide : https://ytub.ee/nnpOZ
