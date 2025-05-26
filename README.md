@@ -26,9 +26,10 @@ Module descriptions at https://modulux.htwk-leipzig.de/app-modulux/frontend/modu
 
 Repositories based on online courses, tutorials, and technical books I studied independently.
 
-- [**ansible-lltv**](https://github.com/uviu/ansible-101)  - ansible + virtualbox - [guide](https://ytub.ee/nnpOZ)
-- [**opencv-fcc**](https://github.com/uviu/opencv-101)    - opencv - [guide](https://ytub.ee/91Vbm)
-- [**tensorflow-nr**](https://github.com/uviu/tensorflow-101)  - tensorflow + opencv - [guide](https://ytub.ee/BlqW6t)
+- [**ansible-lltv**](https://github.com/uviu/ansible-lltv)  - ansible + virtualbox - [guide](https://ytub.ee/nnpOZ)
+- [**opencv-fcc**](https://github.com/uviu/opencv-fcc)    - opencv - [guide](https://ytub.ee/91Vbm)
+- [**tensorflow-nr**](https://github.com/uviu/tensorflow-nr)  - tensorflow + opencv - [guide](https://ytub.ee/BlqW6t)
+- [**playwright-cq**](https://github.com/uviu/playwright-cq) - playwright - [guide](https://ytub.ee/reF5Xp)
 
 ## Dotfiles
 
