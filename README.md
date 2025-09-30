@@ -22,15 +22,6 @@ Module descriptions at https://modulux.htwk-leipzig.de/app-modulux/frontend/modu
 
 ---
 
-## Independent Studies
-
-Repositories based on online courses, tutorials, and technical books I studied independently.
-
-- [**ansible-lltv**](https://github.com/uviu/ansible-lltv)  - ansible + virtualbox - [guide](https://ytub.ee/nnpOZ)
-- [**opencv-fcc**](https://github.com/uviu/opencv-fcc)    - opencv - [guide](https://ytub.ee/91Vbm)
-- [**tensorflow-nr**](https://github.com/uviu/tensorflow-nr)  - tensorflow + opencv - [guide](https://ytub.ee/BlqW6t)
-- [**playwright-cq**](https://github.com/uviu/playwright-cq) - playwright - [guide](https://ytub.ee/reF5Xp)
-
 ## Dotfiles
 
 Configuration files and scripts that customize my development environment, enhancing productivity and workflow efficiency across different systems.
