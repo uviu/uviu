@@ -26,4 +26,4 @@ Module descriptions at https://modulux.htwk-leipzig.de/app-modulux/frontend/modu
 
 Configuration files and scripts that customize my development environment, enhancing productivity and workflow efficiency across different systems.
 
-- [**nvim-setup**](https://github.com/uviu/nvim-setup)    - nvim setuo using [lazy](https://github.com/LazyVim/LazyVim)
+- [**dotfiles**](https://github.com/uviu/dotfiles)
