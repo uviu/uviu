@@ -26,4 +26,4 @@ Module descriptions at https://modulux.htwk-leipzig.de/app-modulux/frontend/modu
 
 Configuration files and scripts that customize my development environment, enhancing productivity and workflow efficiency across different systems.
 
-- [**dotfiles**](https://github.com/uviu/dotfiles)       - library containing os, de etc scripts and configs
+- [**dotfiles**](https://github.com/uviu/dotfiles)       - stow repo containing my configs
